@@ -1,2 +1,1 @@
-# cy-bengkel
-This is a point of sale application for workshops built with Codeigniter 3
+Bengkel app with php Code Igniter 3
